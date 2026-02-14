@@ -1,16 +1,7 @@
-# 📋 Project Management Tool
+# 📋 CodeAlpha  Project   Project Management Tool 
 
 A full-stack Django web application for efficient project and task management with real-time collaboration features.
 
-## 📑 Table of Contents
-- [Features](#-features)
-- [Technical Stack](#-technical-stack)
-- [Installation & Setup](#-installation--setup)
-- [Project Structure](#-project-structure)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-
----
 
 ## ✨ Features
 
